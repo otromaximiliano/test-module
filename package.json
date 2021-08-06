@@ -22,8 +22,7 @@
   "peerDependencies": {},
   "husky": {
     "hooks": {
-      "pre-commit": "npm run lint",
-      "lint-staged": "npm run lint"
+      "pre-commit": "tsdx lint"
     }
   },
   "prettier": {
@@ -48,7 +47,6 @@
   "devDependencies": {
     "@size-limit/preset-small-lib": "^5.0.2",
     "husky": "^7.0.1",
-    "lint-staged": "^11.1.2",
     "size-limit": "^5.0.2",
     "tsdx": "^0.14.1",
     "tslib": "^2.3.0",
