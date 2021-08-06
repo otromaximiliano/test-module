@@ -10,4 +10,3 @@ jobs:
       - uses: andresz1/size-limit-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-a15893d3-1608-47bc-9597-29004c35e3b0
