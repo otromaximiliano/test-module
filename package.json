@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mylib",
+  "name": "otromaximiliano",
   "author": "Ayala Aguirre Lindolfo Maximiliano",
   "module": "dist/mylib.esm.js",
   "size-limit": [
